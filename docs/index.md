@@ -1,6 +1,6 @@
 <style>body {text-align: justify}</style> 
 
-<img src=" images/../assets/images/GSMc_transp_bgr.webp">
+<img src="assets/images/GSMc_transp_bgr.webp">
 
 # About
 
