@@ -24,6 +24,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+  logo: assets/images/GSMc_G_small.png
   favicon: assets/favicon.ico
   font:
     text: 'Ubuntu'
