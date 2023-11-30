@@ -8,7 +8,7 @@ Tedersoo L, Mikryukov V, Anslan S _et al._, 2021. The Global Soil Mycobiome cons
 
 Tedersoo L _et al._, 2022. Global patterns in endemicity and vulnerability of soil fungi // *Global Change Biology*, 28, 6696-6710, [DOI:10.1111/gcb.16398](https://doi.org/10.1111/gcb.16398)  
 
-Mikryukov V, Dulya O _et al._, 2023. Connecting the multiple dimensions of global soil fungal diversity // *Science Advances (in press)*  
+Mikryukov V, Dulya O _et al._, 2023. Connecting the multiple dimensions of global soil fungal diversity // *Science Advances*, 9(48):eadj8016 [DOI:10.1126/sciadv.adj8016](https://www.science.org/doi/10.1126/sciadv.adj8016)  
 
 
 ## Papers using mostly GSMc DNA samples or data
